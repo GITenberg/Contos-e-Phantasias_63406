@@ -1,0 +1,29 @@
+_repo: Contos-e-Phantasias_63406
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carvalho, Maria Amalia Vaz de
+    aliases:
+    - Carvalho, Maria Amália Vaz de
+    - Vaz de Carvalho, Maria Amalia
+    - De Carvalho, Maria Amalia Vaz
+    birthdate: 1847
+    deathdate: 1921
+    gutenberg_agent_id: '31923'
+    url: http://www.gutenberg.org/2009/agents/31923
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Maria_Am%C3%A1lia_Vaz_de_Carvalho
+    - https://pt.wikipedia.org/wiki/Maria_Am%C3%A1lia_Vaz_de_Carvalho
+description: ''
+gutenberg_issued: '2020-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63406'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Contos e Phantasias
+url: http://www.gutenberg.org/ebooks/63406
